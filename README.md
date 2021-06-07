@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Asad
 #### I am an Embedded Systems Design and Developer
-![I am an Embedded Systems Design and Developer](https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![I am an Embedded Systems Design and Developer](./img/banner.png)
 
 I am an Electronics Engineer with vast exposure in designing electronics projects and developing simpler solutions for intricate systems. I have a keen interest in digital electronics, robotics especially drones and UAVs.
 
